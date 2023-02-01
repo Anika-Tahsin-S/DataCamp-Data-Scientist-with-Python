@@ -1,0 +1,24 @@
+========================= Common data types ========================= 
+
+Manipulating and analyzing data with incorrect data types could lead to compromised analysis as you go along the data science workflow.
+
+When working with new data, you should always check the data types of your columns using the .dtypes attribute or the .info() method which you'll see in the next exercise. Often times, you'll run into columns that should be converted to different data types before starting any analysis.
+
+In this exercise, you'll first identify different types of data and correctly map them to their respective types.
+
+
+Now, Assign each card to what type of data you think it is.
+
+Numeric Data types:
+1. Number of points on customer loyalty card
+2. Number of items bought in a basket
+3. Salary Earned monthly
+
+Text:
+1. Shipping address of a customer
+2. First name
+3. City of residence
+
+Dates:
+1. Birthdates of clients
+2. Order date of a product
