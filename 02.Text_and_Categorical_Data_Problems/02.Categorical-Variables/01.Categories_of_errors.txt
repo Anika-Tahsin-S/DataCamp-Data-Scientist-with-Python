@@ -1,0 +1,21 @@
+### Categories of errors
+
+In the video exercise, you saw how to address common problems affecting categorical variables in your data, including white spaces and inconsistencies in your categories, and the problem of creating new categories and mapping existing ones to new ones.
+
+To get a better idea of the toolkit at your disposal, you will be mapping functions and methods from pandas and Python used to address each type of problem.
+
+
+- Map each function/method to the categorical data problem it solves.
+
+
+White spaces and inconsistencies:
+
+1) .str.strip(): removes all spaces before or after the column name. Strips all spaces.
+2) .str.upper(): Capitalize all labels so that every label is spelled with capital letters.
+3) .str.lower(): Lowercase, make all labels spelled with lowercase
+
+Creating and remapping categories:
+
+1) pandas.qcut()
+2) pandas.cut()
+3) .replace()
