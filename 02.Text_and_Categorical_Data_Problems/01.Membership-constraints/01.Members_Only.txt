@@ -1,0 +1,20 @@
+### Members only
+
+Throughout the course so far, you've been exposed to some common problems that you may encounter with your data, from data type constraints, data range constrains, uniqueness constraints, and now membership constraints for categorical values.
+
+In this exercise, you will map hypothetical problems to their respective categories.
+
+  -  Map the data problem observed with the correct type of data problem.
+
+
+membership constrain:
+1. A has_loan column with the value 12.
+2. A day_of_week column with the value “Satermonday”.
+3. A month column with the value 14.
+4. A GPA column containing a “Z grade”.
+
+
+Other constrain:
+1. An age column with values above 130.
+2. A birthday column with values in the future.
+3. A revenue column represented as a string.
