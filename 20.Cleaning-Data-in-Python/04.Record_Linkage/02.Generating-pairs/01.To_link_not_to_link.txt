@@ -1,0 +1,19 @@
+========================= To link or not to link? ========================= 
+
+Similar to joins, record linkage is the act of linking data from different sources regarding the same entity. 
+But unlike joins, record linkage does not require exact matches between different pairs of data, and instead can find close matches using string similarity. 
+This is why record linkage is effective when there are no common unique keys between the data sources you can rely upon when linking data sources such as a unique identifier.
+
+In this exercise, we will classify each card whether it is a traditional join problem, or a record linkage one.
+
+- Classify each card into a problem that requires record linkage or regular joins.
+
+
+Record Linkage:
+1. Merging two basketball DataFrames, with columns team_A, team_B, and time and differently formatted team names between each DataFrame.
+2. Two customer DataFrames containing names and address, one with a unique identifier per customer, one without.
+3. Using an address column to join two DataFrames, with the address in each DataFrame being formatted slightly differently.
+
+Regular Joins:
+1. Two basketball DataFrames with a common unique identifier per game.
+2. Consolidating two DataFrames containing details on DataCamp courses, with each DataCamp course having its own unique identifier.
