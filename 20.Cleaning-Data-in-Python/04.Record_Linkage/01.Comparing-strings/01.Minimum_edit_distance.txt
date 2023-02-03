@@ -1,0 +1,24 @@
+========================= Minimum edit distance ========================= 
+
+Minimum edit distance is the minimum number of steps needed to reach from String A to String B, with the operations available being:
+
+- Insertion of a new character.
+- Deletion of an existing character.
+- Substitution of an existing character.
+- Transposition of two existing consecutive characters.
+
+
+    What is the minimum edit distance from 'sign' to 'sing', and which operation(s) gets you there?
+
+Possible Answers
+
+1) 2 by substituting 'g' with 'n' and 'n' with 'g'.
+2) 1 by transposing 'g' with 'n'.
+3) 1 by substituting 'g' with 'n'.
+4) 2 by deleting 'g' and inserting a new 'g' at the end.
+
+
+
+Answer: 2) 1 by transposing 'g' with 'n'.
+Correct! Transposing the last two letters of 'sign' is the easiest way to get to 'sing'
+
