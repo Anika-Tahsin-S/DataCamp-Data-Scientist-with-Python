@@ -1,0 +1,12 @@
+### Guess the correlation
+On the right, use the scatterplot to estimate what the correlation is between the variables x and y. Once you've guessed it correctly, use the New Plot button to try out a few more scatterplots. When you're ready, answer the question below to continue to the next exercise.
+
+Which of the following statements is NOT true about correlation?
+
+a) If the correlation between x and y has a high magnitude, the data points will be clustered closely around a line.
+b) Correlation can be written as r.
+c) If x and y are negatively correlated, values of y decrease as values of x increase.
+d) Correlation cannot be 0.
+
+Answer: d
+Spot on! When correlation is 0, that means there is no relationship between two variables and the points appear to be randomly scattered.
