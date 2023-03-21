@@ -1,0 +1,16 @@
+### Distribution dragging and dropping
+
+By this point, you've learned about so many different probability distributions that it can be difficult to remember which is which. In this exercise, you'll practice distinguishing between distributions and identifying the distribution that best matches different scenarios.
+
+- Match each situation to the distribution that best models it.
+
+# Poisson
+a) Number of products sold each week
+b) Number of customers that enter a store each hour
+
+# Exponential
+a) Amount of time until someone pays off their loan
+b) Amout of time until the next customer makes a purchase
+
+# Binomial
+a) Number of people from a group of 30 that pass their driving test
