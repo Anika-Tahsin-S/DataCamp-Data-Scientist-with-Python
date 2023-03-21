@@ -1,0 +1,16 @@
+In the video, you learned about two main types of data: numeric and categorical. Numeric variables can be classified as either discrete or continuous, and categorical variables can be classified as either nominal or ordinal. These characteristics of a variable determine which ways of summarizing your data will work best.
+
+Map each variable to its data type by dragging each item and dropping it into the correct data type.
+
+# Continuous
+a) Kilowatts of electricity used
+b) Air trmperature 
+
+# Discrete numeric
+a) Number of DataCaml courses taken
+b) Number of clicks on an ad
+c) Number of items in stock
+
+# Categorical
+a) Brand of a product
+b) Zip code
