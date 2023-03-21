@@ -1,0 +1,19 @@
+In the video, you learned about two different ways of taking samples: with replacement and without replacement. 
+Although it isn't always easy to tell which best fits various situations, it's important to correctly identify this so that any probabilities you report are accurate. 
+In this exercise, you'll put your new knowledge to the test and practice figuring this out.
+
+For each scenario, decide whether it's sampling with replacement or sampling without replacement.
+
+# With replacement
+a) Rolling a die twice
+b) Flipping a coin 3 times
+
+# Without replacement
+a) From a deck of cards, dealing 3 players 7 cards each
+b) Randomly selecting 5 products from the assembly line to test for qualoty assurance
+c) Randomly picking 3 people to work on the weekend from a group of 20 people
+
+Radical replacement judgment! 
+Correctly identifying the type of sampling that needs to be used is key to calculating accurate probabilities. 
+With replacement, everyone always has a 5% chance of working on the weekend. 
+Without replacement, the second pick has a 4/19 chance, and the third pick has a 3/18 chance of working on the weekend. 
