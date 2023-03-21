@@ -1,0 +1,7 @@
+Identifying distributions
+
+Which sample is most likely to have been taken from a uniform distribution?
+
+Answer: B 
+Impressive identification! Since the histogram depicts a sample and not the actual probability distribution, 
+each outcome won't happen the exact same number of times due to randomness, but they're similar in number.
