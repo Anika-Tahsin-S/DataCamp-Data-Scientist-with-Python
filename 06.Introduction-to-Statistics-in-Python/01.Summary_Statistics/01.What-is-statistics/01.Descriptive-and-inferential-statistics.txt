@@ -1,0 +1,11 @@
+Statistics can be used to answer lots of different types of questions, but being able to identify which type of statistics is needed is essential to drawing accurate conclusions. In this exercise, you'll sharpen your skills by identifying which type is needed to answer each question.
+
+Identify which questions can be answered with descriptive statistics and which questions can be answered with inferential statistics.
+
+# Descriptive
+a) Given data on all 100,000 people who viewed on ad, what percent of people clicked on it?
+b) Given data on every customer service request made, what's the average time it took to respond?
+
+# Inferential
+a) Given data on 20 fish caught in a lake, what's the average weight of all fish in the lake?
+b) After interveiwing 100 customers, what percent of all your customers are satisfied with your product?
