@@ -1,0 +1,16 @@
+### Identifying lambda
+
+Now that you've learned about the Poisson distribution, you know that its shape is described by a value called lambda. In this exercise, you'll match histograms to lambda values.
+
+Match each Poisson distribution to its lambda value.
+
+# lambda = 1
+- highest probabilities at 0 and 1
+
+# lambda = 4
+- highest probabilities at 3 and 4
+
+# lambda = 8
+- highest probabilities at 7 and 8
+
+The Poisson distribution is a family of distributions, just like the uniform, binomial, or normal distributions.
