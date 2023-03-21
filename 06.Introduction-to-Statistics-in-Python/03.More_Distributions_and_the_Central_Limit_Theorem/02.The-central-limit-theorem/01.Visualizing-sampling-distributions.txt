@@ -1,0 +1,12 @@
+Visualizing sampling distributions
+
+On the right, try creating sampling distributions of different summary statistics from samples of different distributions. Which distribution does the central limit theorem not apply to?
+
+a) Discrete uniform distribution
+b) Continuous uniform distribution
+c) Binomial distribution
+d) All of the above
+e) None of the above
+
+Answer: e
+Victorious visualizing! Regardless of the shape of the distribution you're taking sample means from, the central limit theorem will apply if the sampling distribution contains enough sample means.
