@@ -1,0 +1,17 @@
+### Confounders
+
+A study is investigating the relationship between neighborhood residence and lung capacity. 
+Researchers measure the lung capacity of thirty people from neighborhood A, which is located near a highway, and thirty people from neighborhood B, which is not near a highway. 
+Both groups have similar smoking habits and a similar gender breakdown.
+
+Which of the following could be a confounder in this study?
+
+Answer the question
+a) Lung capacity
+b) Neighborhood
+c) Air pollution
+d) Smoking status
+e) Gender
+
+Answer: c
+You would expect there to be more air pollution in the neighborhood situated near the highway, which can cause lower lung capacity.
