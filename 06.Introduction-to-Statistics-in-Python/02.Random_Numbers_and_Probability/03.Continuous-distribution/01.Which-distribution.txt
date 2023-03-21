@@ -1,0 +1,18 @@
+Which distribution?
+
+At this point, you've learned about the two different variants of the uniform distribution: the discrete uniform distribution, and the continuous uniform distribution. In this exercise, you'll decide which situations follow which distribution.
+
+Illustration of discrete and continuous uniform distributions
+
+Map each situation to the probability distribution it would best be modeled by.
+
+# Discrete uniform
+a) The ticket number of a raffle winner, assuming there is one ticket for each number from 1 to 100.
+b) The outcome of rolling a 4-sided die.
+
+# Continuous uniform
+a) The time of day a baby will be born
+b) The time you'll have to wait for a geyser to erupt if you show up at a random time, knowing that the geyser erupts exactly every ten minutes.
+
+# Other
+a) The height of a random person.
