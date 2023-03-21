@@ -1,0 +1,17 @@
+### Study types
+
+While controlled experiments are ideal, many situations and research questions are not conducive to a controlled experiment. In a controlled experiment, causation can likely be inferred if the control and test groups have similar characteristics and don't have any systematic difference between them. On the other hand, causation cannot usually be inferred from observational studies, whose results are often misinterpreted as a result.
+
+In this exercise, you'll practice distinguishing controlled experiments from observational studies.
+
+- Determine if each study is a controlled experiment or observational study.
+
+
+# Controlled experiment
+a) Asthma symptoms are compared between children randomly assigned to recive professional home pest management services or pest management education.
+b) Subjects are randomly assigned to a diet and weight loss is compared.
+c) Purchasing rates are compared between users of an e-commerce site who are randomly directed to a new version of the home page or an old version.
+
+# Observational study
+a) Prevalence of heart disease is compared between veterans with PTSD and veterans without PTSD.
+b) A week ago, the home page of an e-commerce site was updated. Purchasing rates are compared between users who saw the old and new home page versions.
