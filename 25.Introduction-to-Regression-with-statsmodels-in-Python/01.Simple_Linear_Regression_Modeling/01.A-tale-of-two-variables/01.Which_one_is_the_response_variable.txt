@@ -1,0 +1,19 @@
+### Which one is the response variable?
+
+Regression lets you predict the values of a response variable from known values of explanatory variables. Which variable you use as the response variable depends on the question you are trying to answer, but in many datasets, there will be an obvious choice for variables that would be interesting to predict. Over the next few exercises, you'll explore a Taiwan real estate dataset with four variables.
+
+# Variable 	|    Meaning
+dist_to_mrt_station_m =  Distance to nearest MRT metro station, in meters.
+n_convenience 	=  No. of convenience stores in walking distance.
+house_age_years =  The age of the house, in years, in three groups.
+price_twd_msq 	=  House price per unit area, in New Taiwan dollars per meter squared.
+
+Print taiwan_real_estate in the console to view the dataset, and decide which variable would make a good response variable.
+
+
+a) dist_to_mrt_station_m
+b) n_convenience
+c) house_age_years
+d) price_twd_msq
+
+Answer: d.  Predicting prices is a common business task, so house price makes a good response variable.
